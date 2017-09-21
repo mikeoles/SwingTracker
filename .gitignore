@@ -1,3 +1,6 @@
+# Csv Files for privacy
+*.csv
+
 # Compiled class file
 *.class
 
