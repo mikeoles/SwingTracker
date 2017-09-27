@@ -2,15 +2,16 @@
 
 **Instructions**
 
-Main.java shows a sample run of this program.  
+SwingTracker.java shows a sample run of this program.  
 
-Just compile with: javac main.java
+Just compile with: javac SwingTracker.java
 
-Run with: java main
+Run with: java SwingTracker
 
 Choose csv file name to pass into the Swing class which contains the swing data.
+Enter "Q" to quit
 
-**Use**
+**Uses**
 
 After the data from the csv file is loaded you can run different opperations on it:
 - searchContinuityAboveValue(data, indexBegin, indexEnd, threshold, winLength)
